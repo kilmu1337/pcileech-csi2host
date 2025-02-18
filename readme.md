@@ -3,8 +3,11 @@
 you can generate fw just change the dna id in fifo.sv to yours.
 
 Notice:
+
 Notice:
+
 Notice:
+
 after flash fw, u should install driver on main pc, then main pc -> device manager ->intel csi2 host controller -> Power Management ->uncheck "Allow this computer to turn off this device to save power" in device manager.
 
 # Anti-Cheats
